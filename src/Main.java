@@ -3,6 +3,9 @@ public class Main {
         System.out.println("HOLA MUNDO");
         System.out.println("PABLO ORTIZ PLAZAS");
         System.out.println("Triztemente desesperado");
+        System.out.println("pull origin main");
+        System.out.println("switch -c");
+        System.out.println("check out");
         System.out.println("comandos git");
         System.out.println("git status");
         System.out.println("git add");
